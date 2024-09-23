@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Photo Archive'
+theme = ["PaperMod", "hugo-shortcode-gallery"]
